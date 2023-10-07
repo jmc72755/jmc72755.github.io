@@ -1,6 +1,6 @@
-layout: page
 title: "TESTPAGE"
-permalink: /testpage/
+layout: page
+filename: TESTPAGE
 
 # This is a test page
 # UPDATE!
